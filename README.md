@@ -32,6 +32,8 @@ The project aimed to enhance Atliq Hardware's analytics capabilities by addressi
 - **JOIN Operations**
 - **Stored Procedures (SP)**
 - **Subqueries**
+- **Views**
+- **User Defined Function**
 
 ### Real-World Application
 
